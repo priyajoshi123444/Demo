@@ -1,4 +1,5 @@
 <?php
+echo"commit changes";
 // Check if the form is submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Check if all required fields are present
